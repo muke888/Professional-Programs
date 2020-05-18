@@ -8,7 +8,10 @@ from aimacode.search import (breadth_first_search, astar_search,
 from air_cargo_problems import air_cargo_p1, air_cargo_p2, air_cargo_p3, air_cargo_p4
 
 from _utils import run_search
+#import sys 
 
+#stdoutOrigin=sys.stdout 
+#sys.stdout = open("log.txt", "w")
     ##############################################################################
     #                 YOU DO NOT NEED TO MODIFY CODE IN THIS FILE                #
     ##############################################################################
@@ -109,3 +112,5 @@ if __name__=="__main__":
             print("    {!s}. {} {}".format(idx+1, name, heuristic))
         print()
         print("Use manual mode for interactive selection:\n\n\tpython run_search.py -m\n")
+#sys.stdout.close()
+#sys.stdout=stdoutOrigin
