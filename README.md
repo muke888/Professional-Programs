@@ -1,6 +1,9 @@
 # Professional-Programs
 Professional Programs
 
+## Udacity Artificial Intelligence Nanodegree
+![Udacity Certificate](https://github.com/muke888/Professional-Programs/blob/master/Udacity%20-%20Artificial%20Intelligence/Udacity%20Certificate%20-%20Artificial%20Intelligence.pdf)
+
 ## Microsoft Data Science Degree
 
 ![Data Science Certificate](https://github.com/muke888/Professional-Programs/blob/master/Microsoft%20-%20Data%20Science%20Program/Microsoft%20Data%20Science%20Certificate%20-%20Murat%20Eliby.png)
