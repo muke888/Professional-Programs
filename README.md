@@ -2,7 +2,7 @@
 Professional Programs
 
 ## Udacity Artificial Intelligence Nanodegree
-![Udacity Certificate](https://github.com/muke888/Professional-Programs/blob/master/Udacity%20-%20Artificial%20Intelligence/Udacity%20Certificate%20-%20Artificial%20Intelligence.pdf)
+![Udacity Certificate](https://github.com/muke888/Professional-Programs/blob/master/Udacity%20-%20Artificial%20Intelligence/Udacity-Certificate-Artificial-Intelligence.png)
 
 ## Microsoft Data Science Degree
 
